@@ -1,371 +1,92 @@
 <div align="center">
 
-KUMAIL RAZA
+<font color="#58A6FF">KUMAIL RAZA</font>
 
-Software Developer · Cybersecurity Master's Student · Full-Stack Developer
-
-Islamabad, Pakistan · mkumailraza051@gmail.com
-
-
+<font color="#8B949E">Software Developer</font> · <font color="#58A6FF">Cybersecurity Master's Student</font> · <font color="#3FB950">Full-Stack Developer</font>
 
 </div>
 
-🖥️ whoami
-
-╭──────────────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                              │
-│   KUMAIL RAZA                              SOFTWARE DEVELOPER / CYBERSECURITY                 │
-│   Islamabad, Pakistan                     FAST University — M.S. Cybersecurity              │
-│                                                                                              │
-│   ┌───────────────────────────────┐      ┌──────────────────────────────────────────────┐   │
-│   │                               │      │ SUMMARY                                      │   │
-│   │     ASCII PROFILE ART         │      │ Full-stack developer experienced in web      │   │
-│   │                               │      │ and mobile application development.          │   │
-│   │     See full artwork below    │      │ Strong hands-on experience with Flutter,     │   │
-│   │                               │      │ Firebase, Python, React and Node.js.         │   │
-│   │                               │      │                                              │   │
-│   │                               │      │ EDUCATION                                    │   │
-│   │                               │      │ MS Cybersecurity     FAST      2026–Present  │   │
-│   │                               │      │ CGPA: 3.78 / 4.00                            │   │
-│   │                               │      │ BS Information Tech.  Bahria   2022–2026   │   │
-│   │                               │      │ CGPA: 3.56 / 4.00                            │   │
-│   │                               │      │                                              │   │
-│   │                               │      │ CURRENT ROLE                                 │   │
-│   │                               │      │ Full Stack Developer — Horizon Tech          │   │
-│   │                               │      │ Mar 2026 – Present                           │   │
-│   │                               │      │                                              │   │
-│   │                               │      │ STACK                                        │   │
-│   │                               │      │ C++ · Python · Dart · JS · SQL               │   │
-│   │                               │      │ React · Node · Express · Flask · Flutter     │   │
-│   │                               │      │ PostgreSQL · MongoDB · Firebase · Docker     │   │
-│   │                               │      │ Linux · Git · GitHub                         │   │
-│   │                               │      │                                              │   │
-│   └───────────────────────────────┘      └──────────────────────────────────────────────┘   │
-│                                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────────────────────╯
-
-Tip: GitHub's Markdown renderer does not reliably preserve a complex two-column ASCII layout with very large artwork on every screen size, so the detailed ASCII portrait is placed below while the terminal-style profile card above stays readable.
-
-🎨 ASCII Profile
-
-
-
-
-
-
-
-
-       :::-:--:-::-::::...                .:--:::::::---:.  .: @   @#::::::::-:--::--::-::::::..::::-::-:::::---::::::::::::-::-::::::::::::    ..   .:-:::::::::----:
-       :.            .:=+#%%%@@@@@@@@@@@#@ :-::::::::::::=@@   #@@@.  .#=::::--:---::---:::::.-:-.::---:::::::::::::::::---::---::::::::::. =@@*-=@@#     .:::::::--:-
-        =@@@@@@%@@%%%%#=-.        := - @ == ----:::::::::.   @+    -@ *=.:::::::------:::::::.*@@.::::::::::: : :    :  ::---::--:::::--:: @#       -@@@@@ .---:::::::
-       .@ =.% @           .::-:=#@@@@@@@@@# :-:::::::::::::: @    = @    .::::::-::::-::::::::   .:::::::::::=@-@@@@@=@ ::-:-:::::::::.   =@-.: -@@@     *@   .:::----
-        @=:#@=*%@@@@@@@@@@+-:::.         :% ----:::::::::-:: @@ @@-+@ -@@.::::::---::::......::--:::::::::--            ::---::--::::: @@.  .:: @:.@+ ::.. :@@ ::::::-
-        -@                .:::::::::::-: *@ :::   :.   :::::.  # =@.     .:::::                .:::::::::::: @@@%@@@*@:::::::::::::::: @  ::::: @ *.+.:::::  @-.:::::-
-       ..@ @@@@@@@*.::::::::::::::-----:.-@..:. @::.@@ ::::::: .@@@@.:--::.      @@@@@%%@@#%%=     ..:------            :::::::::::::: @+       ====        .@ .:::::-
-       .-@        +-::::::::::::          @+ :.:@ :. @ ::::::::  *=  :..     @@@@@@@@@@@@@@@%%%@%@#.    .::::+@.@@@@@@@ ::::::::::::::   #@@@@@@%@@#@@@@@@@@   :::::::
-       ..@. %@*@*:             .*@@@@@@@. @+ : .@ :: @ :::::::::.       +@@@@@@*=*@+-..=%@@@@@@*-.*@@%%    .:           :::::::::::::::: +@@-  @ .@ @    @@* :::::::::
-       : *%   :*-@@@@@@@@@@@@@@.--      . %+ :..@ :.:@ ::::::::::.  =@+%#==*=+#@@@@@@@@@ : : =*=@@= :-@#@@   .:::::::::::::::::::::::::::   .@@@ ..   @@@+  .:::::::::
-       : +%                    .::::::::: ## ::   :==  ::::::::    #%##%*--@@@@@@@@@@@@@@  @@@==-:%#+%%+@@@@  .:::::::::::::::::::::::::::::     ::::.    .:::::::::--
-       - +% @@@@@@@@-:--------:::::::::::. @:.::::::::::::::.   +@@@@@@@*=@@@@@@@@@@@@@+%@@* =*@@%@@@@%@@@@@@  :-:::::--:       .::::::::::::::::::::::::::::::::::-::
-       -.+%          :--:::::::.     .:::: @:.:::::::::::::.  @@@@@@@%#@@@@@@@@@@@@@@@@@@@@@@@+@*@*---@@@@@@@@..-:::::::.#@=@ @@ .:::::::::::::::::::::::::::. .:::-:-
-       -. %= @@@@@*         :. .*@@@@-:::: @:.::::::::::::::+@%@@@@%%@@@@@@%*#%####%#%@@%@@@@@@@@@@%@@@@@@@@@+ .-:::::::..**@@#-%      ::::::::::::::::::::: #:# :::::
-       :: @+   =%=@@@@@@:@@@%+#@:.   .:::: @- :::::.  .::::  *@@@@@@@#+@=**=***##=+###*#%@@@@@@@@%#%@@@@@@@@@@ :-::::::::      - %@# @:::::::::::::::::::::: @@@ :::::
-       -: %+                     ::::::::: =% :::::.@@.--:  @@@@@@%: #@=*#+***#+..==*****%@#@@@@@@@@@@@@@#@@#  .::::::::-:*@@@:@-%         :::::::::::::::::.   .:::::
-       -: %* @@@@@@@@::::::::-:-::::::::::: @ :-:::.  .::.-@@@@@@@%@@@*%#***++**==+=**++*##@@@@@@@@@@%+@@@@@@@   ::::::::: :.-=-@@ +%@@@@@#::...::::::::::::----::::::
-       :-..@        :.:::::...           :: @:::::::::--:::-@@@%%@@@@@+#++#*+*##**#*#*=*+***#@@*===-=+++@*%#%@@@ .::::::::.#%=.             .:@:.:::::::::::::::::::::
-       -:: @ #:#@@#=.    :=+#%%%%@@@@@@@#=-.  ::::::::::::. #@@@@@@@@#*#=***##*:.:=.=**+#=*##**%#++==***@@@@@#@# .::::::::.. :%@@@@@-.@@@ #@= #%*::::--::.   .::::::::
-       ::: @@@@@@+=+@@@@%+:...           ::::::::::::::::::  .@@@@@@@+*-:::--=:=--=.:*=-===*###**++*+*++@@@%@%@@  :::::::::-@#: :   ..    ..... .:-.     .@@*   .:-:::
-       :::.              .:::::::::::-:-::::::::    ::::::::  @@@@@@@--:=*##+----==--+=+-----::::----+++@@@@@@@@ .:::::::::.. ....::::::::::::::::: @@+*@@  %*@*  .:--
-       --:-::   :::.:::::::::::::::::---::::::::=@@ :::::::::   @@@@=+@@@@@@@@@@@@###+++*#**#%@@@@@@@@*-#@@@@@@  ::::.        .::::---::::::::::::- @%    *%   #%@::::
-       -::-: -@.          ::::::::::::::::::::::    ::::::::::   @@@:--=---::-==+%@@#####%@@@@%+===-=+@*+@@@@@@ ::::: @@#@@@@%:       .:::::::::::: @#  *@  @.  @@ :--
-       ---:: @@=%@@@@@@@@%:::...:::::::::::::::::::::::::::::::. .#@-*#@@@@@@@@@@@@%####*#@@@%%#@#=***+-=@@@@   :::: =@       #@@@@=#@ :::::::::::: @#  @ @.@  %@. ---
-       :::::    %           .=+#:-:-::::::::..   . -..::::::::::.##@:-*###*#@@-#####+..=##@%*.@@@%*@%#+=-@@@. .::::: @% .  . -      #@ ::::::::::::. @% @ +-@ *%@ :-::
-       ::::::  - @% @@@*@@@@ # * :    :.     @.@=@=%@-:::::::--:.##*.:.:###########+=:.-*#*########+++===@#+ .:::::. @@ :@@ @%*@+: =@  :::::::::::::  @:.   :*@. .:-::
-       :::::: @%# .        =@@#@:@@@@=:.%@@@:: . . . .:-::---::::-#+..--.+##*#+=-:..=:-.-=*--=+++-+*#*++=@%#.::::   +*     =: .. . -@..::::::::::::::  .@*@@@   :::---
-       ::::::    ..*@@=@@@#@. *-=     :.    .::::::::-:-::-::-:::.##:####*+==+=+#*:.:--..-*+=**####+--=++##-:::::*@=@%@@*         .@: :::::::::::::::::       ::::::::
-       :::::------.+.       ... .::::------:-:---::   :---------::=#=+:-.::=--*#:......:..:+#**+==**++**##+:::::.-@@#:=+@@@@@@@@@@ @#.:-----::-----:::-:-:::::::------
-       :::::-::::-:::::----::---:::::-:-:-::.   .: =@:   .:::-:--:-:++=-=-===**-##@##########**+*+-=+++##--::::::         :@@*   @@@ .::::::::::::::::---:::::::-:::::
-       :::::         ::-:::::::::::::---:--. *@@.. @- +@+. :----::::*#+==+==+*--###*########+**+=+*+*+##-::::::::::::::::.     :     :----.     .:...             .---
-       :::.  @-@@@#%  .-:::::----::::::::-:.@@    @#    @@=:-::---::=**=+***+-=:.==-=++===++=++*#*+++*#:::-::::::::::::::::::::::::::::::: %@:@@          ..:=++*@ :--
-       ::. @*@@  =@@@@ ::::::-::----:::::-:.   @@#@ . @    :-::::::::######**+...-##***#+-.:-==*+==+*#*:::::::::::.  ::::::::::::::::::::: @@#@@@@@@@@@@@@@@@@@@%@ :::
-       -: @= @   .# +@ ::::::--:        :::--:   .- :   :-::::--::-:::#*=.-#@@@@@#########@@@@#*=++=--    ::::::::-@*.:---:::::::::::::::. # .                   @ --:
-       -: @# @   -#  @ ::::::::..@@@@@@  ::::::::::::::::::::::::::.. .#****+:..:*#########*+*#*===-#@@@=  .::::::-*+::::::::::::::::::::.:@ @@:-@#@##::::::::: :@ :-:
-       -:..@.@@  .@@+@ :::::::: +#.=-=-@ :::::::--::::::::::........*#@@+=+*+=+##+=====+==-=+=++*=+@@@@@@@   .::::...::--::::::.   .::::: =%   .    ..::::::::: +@ :--
-       -::  **@@%@@%  .-:::::::.@@.: :*@ ::::::............... -#%@@++@@@#+++*########+++***+++=+*@@@@@@@@@%    ...::::----:::::@@@.:::::.#%                    +* :-:
-       -:--.         ::::::::::  =*@@*%  :......=+*#*###%%%##%@##*#%-+@@@#+%=:....:.=***+++==+*#*#@%@@@@@%@@@@@@#:........:::::.   .:::::..+%@@@%%%%@@@@@@@@@@@@@ .:-:
-       ::::::::::::::-::=%::::::.     .....*@@@%##%****+**+=*%-+#*#%-*@@@@*#%@#*###**+**++=*##*++@@%##@@@%##@@@@@%%@@@%@#.......:::::::::::.                      :::-
-       -::::::::::::::::::::::::---:...:%@@#*+****++*#*+++*++-#*+*#*-*@%@@#***#@@@%%##%%@@%#**++#@@@##@@%#%%@#@@@*##***+##@@@%=....:--::::::::::---:    :::::::::::::-
-       -::   .:::::::::::::::::::::..*%#*++**#+++*+=+#*=*#+-+@=*+#%#++*++@%#**+**%@@@@@%**++++*#@@@%#@@@##%%@%%@%++*#**++++***#%%+...:::::::::::::. +#@ :::::::::.  .:
-       -. :@@: ::::::::::::::::-:..=%##@=#**+++*#*+*+*%#*=+%%*%#+--*++%**#@@#**+**+****#***###@@@@##@%%%%@@@@@@@%+***##*=+**++==+%@#...::::::.     @@.@  ::::::::.@@.-
-       : *@  @  :::::...::::::::..*#**++*+*+*#*++#**==@=+@#+++=++*+*#**%##@@@###*********#*##%@%###@%@%%@%%%@@@@#=#**##**++**++*@**#%#...:::: %@@@-    @   .:::::.  .:
-       :.%%.. @ :     # .::::-:..*%#**++##+**++++%#++=%=----=+=+----+*-**-+@@#***+**####***#%%%##*##*+*++++=:------++%%******#=@*=++*#%#..::: @@@@-%@@@@ #@ ::::::-:--
-       : ++:@ @ :.@@@@@@   .::..=++***+*+#+++++**#@=+=#@@@@%------+-----==@@@@%#**#*******####***%#@@@@@@@@@@@@@@@@@*#@##+*++#-@+#*++*#%%...:.         @@@* ::::::::-:
-       -.-@@@*+        -@@@.:..#@@+=+#*++%*+#*==-@@=*+*-=@@@@@@@@@@@@@@@@*@%@@@@#*******###*####%#@@@%@@%%%%%%@@@%@@+*#*##*+*#=@=*++*#*+#@*..::::::---.    :::::::::::
-       ::     ..%@@@@@.  -+...+#**@@*=**+##++%+++@@*+*+++=-+*----@@@@@@@+--**@@%@#***##******#@#%@@@%@@%%%%@@@@@@@-+#**++##*+*=@=*+#%#++%#%#..:::::-:-::::. .:::::::::
-       -::::--:.    #@@@=....*##*++*@@+*+*@%+**+*@@*++**%*-=+*++--@@@@@@@=---+@@@@##***#####%#%@@@@%@@@%%%%@@@@*-++***#**##*+++@-+##+*=*@**#%..::::---.   :@-   .:::::
-       :::::-:-:::.     .:..**#***#*+%@@#*%#=*@+=@@*+*#+#%+#***#++--*%@#*@@@@+-+%@@#######*@%@@@@@@@@%%%@@@@@=-+*#%#*#********+%+@@*+=+@**+#%#..:::::  @@%   %@@  ::::
-       ::  .:-:::::::--:::.:#*%++**%#*%##%@@+*#**@@*=+*+*%#*+*%****+==-**@@@@@@@++#@%#*###%@@@@@@@@@@@@@@@%%@#+*##**#++#%****+=%@@#*++@%+++@*#@..:-:. @   :@    @ .:::
-       ::@@:::.: .:::-:-:.:%###%%+-+#*@#*#%@++@++@@**%#+*#*+*##*#*+*+*+#*#@@%%@@@@**@@###%@@%@@@@@@%%@@@%@%%@@%***#*%%#*##****+#@%*+#@@-=+@%##*%..:::@@  @@@@@  *@.:-:
-       ::...::.@@.:::-::..#%**+*@@@+=*#@%#@@*#%*+@@=#+*#+##*%#+#@##***+*#*@@@@@%@@@#*@%#@%@@@@@@@@@%%%%@##@@@@@=*#***#%%#%****#+@+**@@--+@%*++#@*..: .@  @@@@@  @- :-:
-       ::--:::.  .::-::..=#**@%==+@@@*=**@@@*#**%@@*#%#+##**#+*%***+*%==#*#@@@@@%@@@%+*@@@@%@@@@%%%@@%@@@@@%#@@++##*#*#*#%*##**=@##%@-+@@-+*+#@%#+..: .@       @. ::::
-       :::::::::::::-:..#@#***@@%=++@@%#-=###%%#%@@+*###**#*%%%##%%#*+#*==#%@@@@@@@@@@**@@@@@@%%@@@@%%@@@@%#%@@#**###*%%%@#***%+@%@#*@@-+#**@%+*#%...:  .@@@@@   :::::
-       :--:::::::::::..#@#*****#@%#+=*@@@#%*++%@@@@**%%####*#*%*%%****%+**=+***##%%@@@@+#@@@@@%@@%%@@@%%%%%%%#@@*#%##*#%##*+**%+@@#%#-+#*+@@+=*@*@@..:::.     .:::::::
-       -:-:--::---::..*@###*****%@#@*+=@@@@%#%#+@@@**#*#**##%##*###*#*#+*+++%*#+**%#*%@@+*@@%%@@@%@%@@%%#*###%@@+*#%%#%%*+###*#+*@*==%*+@@+-+@@#**@%..::::::::::::-:-:
-                      =------------=-=--+@@--++#@@*===--------------------------------@@%-+++*++=-=+*+==--==-==+-----------------%++==+#----=------=-
+<table>
+<tr>
+<td width="48%" valign="top">
 
+<pre>
+ :---:.   :-:-:@@#:---:::-:-:::-::: .-::--
+ :@@@%%@@@@-::@@@@=---:@@-::::----@@@@@---
+ .@@@@@=@@@-::-@@@@:--:--:-@@@---@@-@+@@--
+ .@@@:::--@:@@:#@-::@@@%:--@@@:::@+:@+:@:-
+ .@@*:::@@@:@@::*:@@@@@@@@:@@@::::@@@@@:::
+ :%*@@@@-:%:@@::#@@@@@@@@@@::::::::@:@@::-
+ -%@@---::@::::@@@@@@@@@@@@@--@@::::::::--
+ -@@@@@@@@@-:::@@@@%%@@@@@@@-:*@@@:::::@::
+ -%@@@:-::=@:@@@@@##+*@@@@@@::@@@@@::::-::
+ -@#@:+%@@#@:--@@@#####@#*@@::#@@@@@*-::::
+ :@@@@%::-:::::@@@#+=**#**@@::-@::::-@@@--
+ --@:::::-::@:::@@@@@#@@@@@@:@@@--::-@@@@-
+ --@@@@#-:::-:::@@@@@#@@@%@@:@.@@@:::@@@@-
+ ::@@@@@@@@@@@--#-###=####@::@@@+@:::@@@--
+ ::-*@@*=-------#####-*##*#:@@@@@#-----:--
+ ::-----:--@@@+--#+*@###*##:::@@@--::--:--
+ :@@@@:--:-@@@@--##*##+*##-:::::::@@@@@@@-
+ -@@#@:-@@---:---##@@#@@+@=:@*-:::@@@#::@-
+ -@@@@::@@::-::-@@@###*+@@@::--:@:%. :::@-
+ --::-%:@@*@%#%@%@@@#**#@@@@@@#:::+@%@@@@-
+ -::::::-%@#*##@%@@@@@@#@@%@@#@@%-::-@:::-
+ -@@:::-#@###@@%*%@@*##@@@@@%#**@%:@@@::@-
+ :%@@@:-%*#*@@@++*@@###%@@@@@@#@#%%@@@@:--
+ -@@@@@#@#%%@*@@@@@@@##@@@@@@##@#%@:--::::
+ -:-:@=##@@@@#%#@@@@@#@@@@@@%##@@@@%-@@@::
+ :@-:-%%%@@@@%%%##@@@@@@@@@@#%%%@@@@-@@@@-
+ :-@@-%@@@@%@%#%@%@@@@@@@@@@#%%#@@@@#@@@@-
+ :-::#@@@@@@@%#%%%%@@@@@@@@@%%@%@@@@@:@@::
+ ----@#*@@@%@##%##*%%@@@@@#@%%##@%@@@-::--
+</pre>
 
+</td>
+<td width="52%" valign="top">
 
+<font color="#58A6FF"><b>kumailraza@github</b></font>:<font color="#3FB950">~</font>$ <font color="#F0883E">whoami</font>
 
+<font color="#E6EDF3"><b>Kumail Raza</b></font><font color="#8B949E">Software Developer</font>
 
+<font color="#58A6FF">OS</font>        : <font color="#E6EDF3">Windows / Linux</font><font color="#58A6FF">Location</font>   : <font color="#E6EDF3">Islamabad, Pakistan</font><font color="#58A6FF">Education</font>  : <font color="#E6EDF3">MS Cybersecurity @ FAST</font><font color="#58A6FF">CGPA</font>       : <font color="#3FB950">3.78 / 4.00</font><font color="#58A6FF">BS IT</font>      : <font color="#E6EDF3">Bahria University</font><font color="#58A6FF">CGPA</font>       : <font color="#3FB950">3.56 / 4.00</font>
 
+<font color="#F0883E"><b>Experience</b></font>
 
-./experience
+<font color="#3FB950">●</font> <b>Horizon Tech</b> — Full Stack Developer<font color="#8B949E">Mar 2026 – Present</font>
 
-Full Stack Developer — Horizon Tech
+<font color="#3FB950">●</font> <b>Ninjas Code</b> — Junior MERN Developer<font color="#8B949E">Dec 2024 – Dec 2025</font>
 
-Mar 2026 – Present · NUST H-12 NSTP, Islamabad
+<font color="#F0883E"><b>Stack</b></font>
 
-Architecting and delivering a modular ERP system using the PERN stack.
+<font color="#58A6FF">C++</font> · <font color="#58A6FF">Python</font> · <font color="#58A6FF">Dart</font> · <font color="#58A6FF">JavaScript</font> · <font color="#58A6FF">SQL</font>
 
-Built 40+ REST API endpoints for communication between independent modules.
+<font color="#3FB950">React</font> · <font color="#3FB950">Node.js</font> · <font color="#3FB950">Express</font> · <font color="#3FB950">Flask</font>
 
-Designed PostgreSQL database schemas and React dashboards.
+<font color="#A371F7">Flutter</font> · <font color="#A371F7">React Native</font> · <font color="#A371F7">Firebase</font>
 
-Working as the sole developer on complete modules from database to frontend and backend.
+<font color="#D29922">PostgreSQL</font> · <font color="#D29922">MongoDB</font> · <font color="#D29922">Docker</font> · <font color="#D29922">Linux</font>
 
-Delivering production-ready modules to the client.
+<font color="#F0883E"><b>Projects</b></font>
 
-Junior MERN Stack Developer — Ninjas Code
+<font color="#3FB950">▸</font> Shifters<font color="#8B949E">Flutter · Firebase · Python</font>
 
-Dec 2024 – Dec 2025 · E-11, Islamabad
+<font color="#3FB950">▸</font> FreelanceNest<font color="#8B949E">React · Firebase · Tailwind · Vite</font>
 
-Built and maintained web applications using MongoDB, Express.js, React.js and Node.js.
+<font color="#3FB950">▸</font> QuickHelp<font color="#8B949E">React Native · Expo · Firebase · Node.js</font>
 
-Assisted in building 20+ REST API endpoints and React components.
+<font color="#3FB950">▸</font> Spam Detection<font color="#8B949E">Python · scikit-learn · TF-IDF · Flask</font>
 
-Fixed bugs and collaborated with the development team to improve application performance and stability.
+<font color="#F0883E"><b>Achievements</b></font>
 
-Junior SEO Specialist — Ninjas Code
+<font color="#D29922">🥉</font> NUML Nexus FYP — <font color="#3FB950">3rd Position</font><font color="#D29922">🥈</font> 6th Semester — <font color="#3FB950">2nd Position</font><font color="#D29922">🥈</font> Project Gala — <font color="#3FB950">2nd Position</font>
 
-Aug 2024 – Sept 2024 · E-11, Islamabad
-
-Worked on keyword research, on-page optimization and backlink building.
-
-Executed a targeted backlink strategy that increased daily traffic from 300–400 to 10,000+ visits.
-
-Lead Web Developer — Insafdar
-
-Jul 2024 – Aug 2024 · Remote
-
-Led end-to-end development of the Insafdar Law Consultant website.
-
-Achieved a 90+ Google Lighthouse performance score.
-
-Delivered 100% mobile responsiveness across 5+ device breakpoints.
-
-Completed the project within a 4-week timeline.
-
-Full-stack Developer — YoungDev
-
-Apr 2024 – May 2024 · Remote
-
-Engineered 2 full-stack websites with custom admin panels.
-
-Implemented complete CRUD functionality for 5+ data entities per project.
-
-Reduced manual content-management time by approximately 60% through dynamic admin dashboards.
-
-./projects
-
-📦 Shifters Mobile App
-
-Flutter Firebase Python
-
-Secure household-item shifting application.
-
-Scan-based digital inventory creation.
-
-Driver verification at delivery.
-
-Real-time tracking.
-
-AI-based missing-item alerts.
-
-🥉 3rd Position — NUML Nexus FYP National Competition
-
-💼 FreelanceNest
-
-React Firebase Tailwind CSS Vite
-
-Full-stack platform connecting freelancers with clients.
-
-User authentication and project posting.
-
-Role-based dashboards.
-
-AI-based freelancer recommendation model based on skill matching.
-
-🛠️ QuickHelp Mobile App
-
-React Native Expo Firebase Redux Node.js
-
-Marketplace connecting clients with workers.
-
-Authentication, job posting and order tracking.
-
-Real-time chat.
-
-Profile verification using CNIC and face recognition.
-
-Admin dashboard for users and jobs.
-
-OCR and localization support.
-
-🛡️ Spam Detection Model
-
-Python scikit-learn TF-IDF Machine Learning Flask
-
-Classifies messages as spam or legitimate.
-
-Supports English and Roman Urdu.
-
-Uses TF-IDF feature extraction.
-
-Exposes a REST API through Flask for real-time detection.
-
-./skills
-
-LANGUAGES
-├── C++
-├── Python
-├── Dart
-├── JavaScript
-├── SQL
-├── HTML / CSS
-└── Bash / Linux
-
-FRONTEND
-├── React / Redux
-├── React Native
-├── Flutter
-└── Tailwind CSS
-
-BACKEND
-├── Node.js
-├── Express.js
-├── Flask
-└── REST APIs
-
-DATABASES
-├── PostgreSQL
-├── MongoDB
-└── Firebase
-
-TOOLS
-├── Git / GitHub
-├── Docker
-└── Linux
-
-CYBERSECURITY
-├── Kali Linux
-├── Nessus
-├── Wireshark
-├── Vulnerability Scanning
-└── Network Security
-
-./education
-
-Degree
-
-Institution
-
-Period
-
-Result
-
-Master's in Cybersecurity
-
-FAST University, Islamabad
-
-2026–Present
-
-3.78 / 4.00
-
-Bachelor's in Information Technology
-
-Bahria University, Islamabad
-
-2022–2026
-
-3.56 / 4.00
-
-FSc Pre-Engineering
-
-IMPC H-8, Islamabad
-
-2019–2021
-
-755 / 1100
-
-Matric in Science
-
-IMCB I-10/1, Islamabad
-
-2017–2019
-
-881 / 1100
-
-./achievements
-
-🥉 3rd Position — NUML Nexus FYP National Competition
-
-🥈 2nd Position — 6th Semester
-
-🥈 2nd Position — Project Gala Spring 2023, Data Structures & Algorithms
-
-🏆 Prize winner — All Pakistan Essay & Poster Competition (WAPDA)
-
-🎓 Academic scholarship recipient
-
-./certifications
-
-3rd Position — NUML Nexus FYP National Competition, Dec 2025
-
-AI-Powered Dashboards — Datacrumbs, Sep 2025
-
-AI for Business Professionals — HP LIFE, Aug 2025
-
-Certificate of Participation — Google Developers Group, Dec 2024
-
-Introduction to Flutter — Simplilearn SkillUp, Oct 2024
-
-ReactJS for Beginners — Simplilearn SkillUp, Jul 2024
-
-Programming Essentials in C++ — Cisco Networking Academy, Jun 2024
-
-Introduction to SQL — Sololearn, Jan 2024
-
-Certificate of Participation — 3rd International Conference on Iqbal, Nov 2023
-
-Mastering Git & GitHub — Microsoft Learn Student Ambassadors
-
-Certificate of Appreciation — Data Structures & Algorithms, Bahria University
-
-./contact
-
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  EMAIL     mkumailraza051@gmail.com                          │
-│  LOCATION  Islamabad, Pakistan                              │
-│  GITHUB    github.com/                                       │
-│  LINKEDIN  linkedin.com/                                    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and projects.
+<font color="#58A6FF"><b>📧 mkumailraza051@gmail.com</b></font> ·<font color="#8B949E">📍 Islamabad, Pakistan</font>
 
 </div>
